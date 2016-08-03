@@ -1,0 +1,39 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/oschwald/geoip2-golang",
+			"repository": "https://github.com/oschwald/geoip2-golang",
+			"vcs": "git",
+			"revision": "ccee6e9d9b1ee5cee16ac664bc1982952edfb13d",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/oschwald/maxminddb-golang",
+			"repository": "https://github.com/oschwald/maxminddb-golang",
+			"vcs": "git",
+			"revision": "f4aa55714a3f843869ca9a38625e177a627c1ce6",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/sys/unix",
+			"repository": "https://go.googlesource.com/sys",
+			"vcs": "git",
+			"revision": "a646d33e2ee3172a661fc09bca23bb4889a41bc8",
+			"branch": "master",
+			"path": "/unix",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/sys/windows",
+			"repository": "https://go.googlesource.com/sys",
+			"vcs": "git",
+			"revision": "a646d33e2ee3172a661fc09bca23bb4889a41bc8",
+			"branch": "master",
+			"path": "windows",
+			"notests": true
+		}
+	]
+}
