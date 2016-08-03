@@ -3,5 +3,5 @@ package sandbox
 import "fmt"
 
 func SayHi() {
-	fmt.Print("Hello 23\n")
+	fmt.Print("Hello a2\n")
 }

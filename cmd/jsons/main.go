@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Print("Hello a1\n")
-	sandbox.SayHi()
+	fmt.Println("Hello b1")
+	sandbox.Encode()
+	sandbox.Decode()
 }
