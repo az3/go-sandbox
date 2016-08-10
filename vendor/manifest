@@ -2,6 +2,22 @@
 	"version": 0,
 	"dependencies": [
 		{
+			"importpath": "github.com/BurntSushi/toml",
+			"repository": "https://github.com/BurntSushi/toml",
+			"vcs": "git",
+			"revision": "99064174e013895bbd9b025c31100bd1d9b590ca",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/go-yaml/yaml",
+			"repository": "https://github.com/go-yaml/yaml",
+			"vcs": "git",
+			"revision": "e4d366fc3c7938e2958e662b4258c7a89e1f0e3e",
+			"branch": "v2",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/oschwald/geoip2-golang",
 			"repository": "https://github.com/oschwald/geoip2-golang",
 			"vcs": "git",
@@ -14,6 +30,14 @@
 			"repository": "https://github.com/oschwald/maxminddb-golang",
 			"vcs": "git",
 			"revision": "f4aa55714a3f843869ca9a38625e177a627c1ce6",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/urfave/cli",
+			"repository": "https://github.com/urfave/cli",
+			"vcs": "git",
+			"revision": "168c95418e66e019fe17b8f4f5c45aa62ff80e23",
 			"branch": "master",
 			"notests": true
 		},
@@ -33,6 +57,14 @@
 			"revision": "a646d33e2ee3172a661fc09bca23bb4889a41bc8",
 			"branch": "master",
 			"path": "windows",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"vcs": "git",
+			"revision": "e4d366fc3c7938e2958e662b4258c7a89e1f0e3e",
+			"branch": "v2",
 			"notests": true
 		}
 	]
